@@ -2,6 +2,10 @@
 #include "6-abs.c"
 #include <stdio.h>
 
+/**
+ * i = printing/counting variable
+ */
+
 void print_to_98(int n)
 {
 	int i;
